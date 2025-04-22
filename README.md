@@ -1,7 +1,7 @@
 # DIO
 ##Bootcamp Cloud
 
-**Montando uma instância de banco de dados - SQL Server Azure Servless**
+**Montando uma instância de banco de dados - SQL Server Azure Serverless**
 
 Tarefa fácil quando se trata de montar simplesmente. Quando os requisitos de segurança e exposição para a internet são necessários, aumenta a complexidade.
 
