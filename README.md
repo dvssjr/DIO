@@ -1,6 +1,14 @@
 # DIO
 ##Bootcamp Cloud
 
+**Montando uma instância de banco de dados - SQL Server Azure Servless**
+
+Tarefa fácil quando se trata de montar simplesmente. Quando os requisitos de segurança e exposição para a internet são necessários, aumenta a complexidade.
+
+Atenção também à performance da máquina escolhida - tem que estar ajustada à carga de trabalho que será exigida.
+
+---------------------------
+
 **Modelos de Infraestrutura (ipos de cloud):** privada, pública, mista e multicloud
 
 **Tipos de investimentos:** CapEx (aquisição de bens, ampliação) e OpEx (manutenção, custos operacionais)
